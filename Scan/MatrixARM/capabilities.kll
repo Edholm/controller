@@ -43,6 +43,6 @@ MinDebounceTime = 5; # 5 ms
 # By default this should *NOT* be set unless your keyboard is having issues
 # Delaying more than 10 usecs may cause significant slow-downs with other keyboard functions
 StrobeDelay => StrobeDelay_define;
-StrobeDelay = 0; # Disabled
-#StrobeDelay = 10; # 10 us
+#StrobeDelay = 0; # Disabled
+StrobeDelay = 10; # 10 us
 
