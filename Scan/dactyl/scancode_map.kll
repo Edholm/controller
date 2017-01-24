@@ -9,11 +9,11 @@ Date = 2017-01-22;
 ###### Left hand ######
 
 # Col 1
-S0x3C : flashMode();
+S0x3C : U"Equals";
 S0x30 : U"Tab";
 S0x24 : U"Esc";
 S0x18 : U"Delete";
-S0x0C : U"Ctrl";
+S0x0C : U"Backtick";
 
 # Col 2
 S0x3D : U"1";
@@ -105,7 +105,7 @@ S0x16 : U"End";
 S0x47 : U"Minus";
 S0x3B : U"LBrace";
 S0x2F : U"Quote"; # Ä
-S0x23 : U"Backtick";
+S0x23 : U"BackSlash";
 S0x17 : U"Delete";
 
 
