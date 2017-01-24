@@ -1,3 +1,7 @@
+Why the fork?
+=============
+This fork has my handwired dactyl keyboard added.
+
 The Kiibohd Controller
 ======================
 
