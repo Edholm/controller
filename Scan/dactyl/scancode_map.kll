@@ -12,8 +12,8 @@ Date = 2017-01-22;
 S0x3C : U"Equals";
 S0x30 : U"Tab";
 S0x24 : U"Esc";
-S0x18 : U"Delete";
-S0x0C : U"Backtick";
+S0x18 : U"Shift";
+S0x0C : U"Iso/";
 
 # Col 2
 S0x3D : U"1";
@@ -50,22 +50,16 @@ S0x29 : U"G";
 S0x1D : U"B";
 
 # Thumb cluster
-S0x00 : U"Space";
-S0x01 : U"Shift";
-S0x02 : U"RCtrl";
-S0x03 : U"LGui";
-S0x04 : U"LAlt";
-S0x05 : layerShift(1);
+S0x05 : U"Ctrl";  S0x04 : U"RAlt";
+S0x00 : U"BackSpace"; S0x01 : U"Delete"; S0x03 : layerShift(1);
+S0x02 : U"Shift";
 
 ###### Right hand ######
 
 # Thumb cluster
-S0x06 : layerShift(2);
-S0x07 : U"LCtrl";
-S0x08 : U"Ralt";
-S0x09 : U"LAlt";
-S0x0A : U"Backspace";
-S0x0B : U"Enter";
+S0x07 : U"RAlt"; S0x06 : U"LCtrl";
+S0x08 : layerShift(2);  S0x0A : U"Enter"; S0x0B : U"Space";
+S0x09 : U"LGui";
 
 # Col 1
 S0x42 : U"6";
