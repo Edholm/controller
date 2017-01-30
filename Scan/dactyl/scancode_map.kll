@@ -57,7 +57,7 @@ S0x02 : U"Shift";
 ###### Right hand ######
 
 # Thumb cluster
-S0x07 : U"RAlt"; S0x06 : U"LCtrl";
+S0x07 : U"LAlt"; S0x06 : U"LCtrl";
 S0x08 : layerShift(2);  S0x0A : U"Enter"; S0x0B : U"Space";
 S0x09 : U"LGui";
 
@@ -93,14 +93,14 @@ S0x46 : U"0";
 S0x3A : U"P";
 S0x2E : U"Semicolon"; # Ö
 S0x22 : U"Slash";
-S0x16 : U"End";
+S0x16 : U"RBracket";
 
 # Col 6
 S0x47 : U"Minus";
 S0x3B : U"LBrace";
 S0x2F : U"Quote"; # Ä
 S0x23 : U"BackSlash";
-S0x17 : U"Delete";
+S0x17 : U"Insert";
 
 
 # Custom Action Examples
